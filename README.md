@@ -1,3 +1,8 @@
-# coursera_module3
 
-#to see file output [click-here](https://shaikfarhan112.github.io/coursera_module3/)
+
+# Module-3 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://shaikfarhan112.github.io/coursera_module3/)
+
